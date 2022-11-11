@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Shubham and I'm currently working as Senior Quality Analyst
+- 👋 Hi Folks, I’m Shubham
+
+- About me
 - 👀 I’m interested in Data Analysis, Visualization and exploring data to derive insights out of it so that business can take effective decisions.
 - 🌱 I’m currently learning SQL, Tableau, Power BI, Data exploration and analysis techniques
 - 📫 You can reach out to me on LinkedIn or Twitter using the below links. 
