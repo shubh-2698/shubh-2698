@@ -6,18 +6,19 @@ About me :
 - 🏢 I've experience in SQL, Tableau, Power BI, dashboard building and design.
 - 🌱 I've self taught myself to get transitioned into Data Analytics and start a new journey 🛣️.
 - 📫 Find me on  [Linkedin](https://www.linkedin.com/in/shubh2698/)
-- ℹ️ [Tableau Public Portfolio] (https://public.tableau.com/app/profile/shubh2698)
-- ℹ️ [Power BI Portfolio] (https://www.novypro.com/profile_projects/shubh2698)
+- ℹ️ [Tableau Public Portfolio](https://public.tableau.com/app/profile/shubh2698)
+- ℹ️ [Power BI Portfolio](https://www.novypro.com/profile_projects/shubh2698)
 
-Skills: 
-- SQL
-- Tableau
-- Power BI
-- Microsoft Excel
+# Skills & Projects 
+- SQL : [Aircargo Analysis](https://github.com/shubh-2698/AirCargo-Analysis), [Employee Mapping](https://github.com/shubh-2698/Employee_Mapping)
+- Tableau : [Regional Sales Comparison](https://public.tableau.com/app/profile/shubh2698/viz/SalesComparisonbyRegionSimplilearn/Dashboard1), [World's Biggest Military Spenders](https://public.tableau.com/app/profile/shubh2698/viz/MakeovermondayTesting/Dashboard1), [Others](https://public.tableau.com/app/profile/shubh2698)
+- Power BI : [Data Science Job Salaries](https://www.novypro.com/project/shubh2698-1), [Zomato Restaurant Analysis](https://www.novypro.com/project/shubh2698)
+- Microsoft Excel : [E-commerce Dashboard](https://github.com/shubh-2698/E-Commerce-Dashboard)
+- Business Analysis : [CBAP Projects] (https://github.com/shubh-2698/CBAP-Projects)
+- Agile Project using Jira : [Smart Weather](https://github.com/shubh-2698/Agile-Scrum-Project-using-Jira)
 
-# Projects:
 
-Courses and Certification: 
+# Courses and Certification: 
 - Post Graduate Program in Business Analysis
 
 
