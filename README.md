@@ -1,11 +1,12 @@
 - 👋 Hi Folks, I’m Shubham
 
-- About me
-- 👀 I’m interested in Data Analysis, Visualization and exploring data to derive insights out of it so that business can take effective decisions.
-- 🌱 I’m currently learning SQL, Tableau, Power BI, Data exploration and analysis techniques
-- 📫 You can reach out to me on LinkedIn or Twitter using the below links. 
-- • Twitter: 
-- • LinkedIn: 
+- About me :
+
+- 👀 I’m interested in Data Analysis📉, visualization📈 and love learning new skills📚.
+- 🏢 I've experience in SQL, Tableau, Power BI, dashboard building and design.
+- 🌱 I've self taught myself to get transitioned into Data Analytics and start a new journey 🛣️.
+- 📫 Find me on : [Linkedin](https://www.linkedin.com/in/shubh2698/)
+- 
 
 <!---
 shubh-2698/shubh-2698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
