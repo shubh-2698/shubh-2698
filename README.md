@@ -16,6 +16,8 @@ Skills:
 Courses and Certification: 
 - Post Graduate Program in Business Analysis
 
+- Tableau Public [Maven-Pizza Challenge](https://public.tableau.com/app/profile/shubh2698/viz/MavenPizzaChallengeUpdated/Dashboard2)
+
 <!---
 shubh-2698/shubh-2698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
