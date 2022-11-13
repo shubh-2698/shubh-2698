@@ -14,7 +14,7 @@ About me :
 - SQL : [Aircargo Analysis](https://github.com/shubh-2698/AirCargo-Analysis), [Employee Performance Mapping](https://github.com/shubh-2698/Employee_Mapping)
 - Tableau : [Regional Sales Comparison](https://public.tableau.com/app/profile/shubh2698/viz/SalesComparisonbyRegionSimplilearn/Dashboard1), [World's Biggest Military Spenders](https://public.tableau.com/app/profile/shubh2698/viz/MakeovermondayTesting/Dashboard1), [Others](https://public.tableau.com/app/profile/shubh2698)
 - Power BI : [Data Science Job Salaries](https://www.novypro.com/project/shubh2698-1), [Zomato Restaurant Analysis](https://www.novypro.com/project/shubh2698)
-- Microsoft Excel : [E-commerce Dashboard](https://github.com/shubh-2698/E-Commerce-Dashboard)
+- Microsoft Excel : [Call Center Analysis](https://github.com/shubh-2698/Call-Center-Analysis),[E-commerce Dashboard](https://github.com/shubh-2698/E-Commerce-Dashboard)
 - Business Analysis : [CBAP Projects](https://github.com/shubh-2698/CBAP-Projects)
 - Agile Project using Jira : [Smart Weather](https://github.com/shubh-2698/Agile-Scrum-Project-using-Jira)
 
