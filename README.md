@@ -5,7 +5,7 @@ About me :
 - 👀 I’m interested in Data Analysis📉, visualization📈 and love learning new skills📚.
 - 🏢 I've experience in SQL, Tableau, Power BI, dashboard building and design.
 - 🌱 I've self taught myself to get transitioned into Data Analytics and start a new journey 🛣️.
-- 📫 Find me on  [Linkedin](https://www.linkedin.com/in/shubh2698/)
+- 📫 Here's my [Linkedin](https://www.linkedin.com/in/shubh2698/) and [Portfolio](https://shubham-s.carrd.co/) Landing page 
 - ℹ️ [Tableau Public Portfolio](https://public.tableau.com/app/profile/shubh2698)
 - ℹ️ [Power BI Portfolio](https://www.novypro.com/profile_projects/shubh2698)
 - Side Note : I'm still learning everyday and growing my skills as I truly believe in the phrase "Learning should never Stop".
