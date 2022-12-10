@@ -1,4 +1,4 @@
-# 👋 Hi Folks, I’m Shubham
+# 👋 Hi Everyone, I’m Shubham. Business Analyst @Concentrix
 
 About me :
 
